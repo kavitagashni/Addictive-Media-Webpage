@@ -1,6 +1,6 @@
 body {
        margin: 0;
-       /* text-align: center; */
+       font-family: 'ITC Avant Garde Gothic Std';
 }
 
 .header {
@@ -93,16 +93,11 @@ body {
 
 .nt-Industry {
        height: 34px;
-       left: 52px;
-       top: 405px;
        font-style: normal;
        font-weight: 500;
        font-size: 25px;
        line-height: 35px;
        background: linear-gradient(90deg, #FFFFFF -6.46%, rgba(255, 255, 255, 0.2) 54.85%, rgba(255, 255, 255, 0) 104.78%);
-       -webkit-background-clip: text;
-       -webkit-text-fill-color: transparent;
-       background-clip: text;
 
 }
 
@@ -123,15 +118,11 @@ body {
        font-size: 25px;
        line-height: 35px;
        background: linear-gradient(89.86deg, #FFFFFF -2.09%, rgba(255, 255, 255, 0.3) 37.07%, rgba(255, 255, 255, 0) 88.12%);
-       -webkit-background-clip: text;
-       -webkit-text-fill-color: transparent;
-       background-clip: text;
 }
 
 .Smart-team {
        width: 360px;
        height: 18px;
-       font-family: 'ITC Avant Garde Gothic Std';
        font-style: normal;
        font-weight: 500;
        font-size: 20px;
@@ -155,7 +146,6 @@ body {
 .Sed-ut-perspiciatis {
        width: 350px;
        height: 136px;
-       font-family: 'ITC Avant Garde Gothic Std';
        font-style: normal;
        font-weight: 300;
        font-size: 18px;
@@ -785,21 +775,17 @@ h1 {
        .Rubber-industry {
               width: 270px;
               height: 34px;
-              font-family: 'ITC Avant Garde Gothic Std';
               font-style: normal;
               font-weight: 500;
               font-size: 25px;
               line-height: 35px;
               background: linear-gradient(89.86deg, #FFFFFF -2.09%, rgba(255, 255, 255, 0.3) 37.07%, rgba(255, 255, 255, 0) 88.12%);
-              -webkit-background-clip: text;
-              -webkit-text-fill-color: transparent;
-              background-clip: text;
+            
        }
 
        .Smart-team {
               width: 300px;
               height: 18px;
-              font-family: 'ITC Avant Garde Gothic Std';
               font-style: normal;
               font-weight: 500;
               font-size: 18px;
@@ -811,7 +797,6 @@ h1 {
        .Some-of-best {
               width: 300px;
               height: 85px;
-              font-family: 'ITC Avant Garde Gothic Std';
               font-style: normal;
               font-weight: 600;
               font-size: 25px;
@@ -824,7 +809,6 @@ h1 {
        .Sed-ut-perspiciatis {
               width: 300px;
               height: 136px;
-              font-family: 'ITC Avant Garde Gothic Std';
               font-style: normal;
               font-weight: 300;
               font-size: 18px;
