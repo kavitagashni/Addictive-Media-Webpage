@@ -1,0 +1,1141 @@
+body {
+       margin: 0;
+       /* text-align: center; */
+}
+
+.header {
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       padding: 0px 10px;
+}
+
+.state-line {
+       display: flex;
+       justify-content: space-between;
+       flex-direction: column;
+       height: 10px;
+}
+
+.small-line {
+       margin: 0px;
+       width: 15px;
+       padding-left: 15px;
+
+}
+
+.rp-all-ys {
+       background: url(assets/RP\ all\ ys.png);
+       width: 135px;
+       background-repeat: no-repeat;
+}
+
+.setting-img {
+       padding-left: 80px;
+}
+
+.header-img {
+       height: 650px;
+       background: url("assets/Mask\ group\ \(4\).png");
+       background-repeat: no-repeat;
+       background-size: cover;
+       margin: 0px 40px;
+       position: relative;
+}
+
+.best-machine {
+       width: 996px;
+       font-weight: 600;
+       font-size: 95px;
+       line-height: 90px;
+       color: #FFFFFF;
+       padding: 155px 0px 0pc 155px;
+       margin: 0;
+}
+
+.Rectangle {
+       margin-left: 170px;
+       width: 200px;
+       height: 201px;
+       background: #EC2232;
+       opacity: 0.5;
+       display: flex;
+       justify-content: center;
+       margin-top: 50px;
+}
+
+
+.zero-one {
+       width: 109px;
+       height: 35px;
+       font-style: normal;
+       font-weight: 700;
+       font-size: 30px;
+       line-height: 35px;
+       letter-spacing: -0.05em;
+       color: #FFFFFF;
+
+}
+
+.vertical-line {
+       padding-bottom: 10px;
+       width: 25px;
+}
+
+.multi-industry {
+       position: absolute;
+       display: flex;
+       top: 495px;
+}
+
+
+
+
+.nt-Industry {
+       height: 34px;
+       left: 52px;
+       top: 405px;
+       font-style: normal;
+       font-weight: 500;
+       font-size: 25px;
+       line-height: 35px;
+       background: linear-gradient(90deg, #FFFFFF -6.46%, rgba(255, 255, 255, 0.2) 54.85%, rgba(255, 255, 255, 0) 104.78%);
+       -webkit-background-clip: text;
+       -webkit-text-fill-color: transparent;
+       background-clip: text;
+
+}
+
+
+.Mining-Mineral-Processing {
+       width: 326px;
+       font-weight: 500;
+       font-size: 25px;
+       color: #FFFFFF;
+       padding-left: 120px;
+}
+
+.Rubber-industry {
+       width: 270px;
+       height: 34px;
+       font-style: normal;
+       font-weight: 500;
+       font-size: 25px;
+       line-height: 35px;
+       background: linear-gradient(89.86deg, #FFFFFF -2.09%, rgba(255, 255, 255, 0.3) 37.07%, rgba(255, 255, 255, 0) 88.12%);
+       -webkit-background-clip: text;
+       -webkit-text-fill-color: transparent;
+       background-clip: text;
+}
+
+.Smart-team {
+       width: 360px;
+       height: 18px;
+       font-family: 'ITC Avant Garde Gothic Std';
+       font-style: normal;
+       font-weight: 500;
+       font-size: 20px;
+       line-height: 67px;
+       letter-spacing: -0.02em;
+       color: #EC2232;
+}
+
+.Some-of-best {
+       width: 415px;
+       height: 85px;
+       font-style: normal;
+       font-weight: 600;
+       font-size: 50px;
+       line-height: 40px;
+       letter-spacing: -0.02em;
+       color: #222222;
+       margin-bottom: 0px;
+}
+
+.Sed-ut-perspiciatis {
+       width: 350px;
+       height: 136px;
+       font-family: 'ITC Avant Garde Gothic Std';
+       font-style: normal;
+       font-weight: 300;
+       font-size: 18px;
+       line-height: 25px;
+       color: #000000;
+       padding-left: 700px;
+       margin-top: 0px;
+}
+
+.type-of-industry {
+       width: 70%;
+       display: flex;
+       justify-content: center;
+       flex-direction: column;
+       margin: 130px auto;
+
+}
+
+.multple-years-info {
+       display: flex;
+
+}
+
+.years-experience {
+       padding-top: 50px;
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+}
+
+.many-years {
+       border-right: 1px solid #C4C4C4;
+       padding-right: 75px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       flex-flow: column;
+       height: 150px;
+}
+
+.one-of-year {
+       padding-right: 75px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       flex-flow: column;
+       height: 150px;
+}
+
+.image1 {
+       width: 80px;
+       height: 60px;
+}
+
+.pluse {
+       width: 40px;
+       height: 35px;
+       padding-bottom: 15px;
+}
+
+.experience {
+       font-size: 25px;
+       color: #222222;
+       padding-right: 20px;
+}
+
+.text-dark {
+       font-weight: 600;
+}
+
+.container {
+       width: 100%;
+       height: 650px;
+       background-image: url(assets/Mask\ group.png);
+       background-repeat: no-repeat;
+       background-size: cover;
+       margin-top: 100px;
+}
+
+.first-approach {
+       color: #EC2232;
+       padding-left: 320px;
+       margin: 0;
+       padding-top: 100px;
+}
+
+.first-choice {
+       width: 500px;
+       font-size: 40px;
+       font-weight: 600;
+       line-height: 50px;
+       padding-left: 320px;
+       margin: 0;
+       padding-top: 20px;
+}
+
+.image-with-text {
+       margin-left: 46px;
+       margin-top: 160px;
+       background-color: #FFFFFF;
+       flex-flow: column;
+       display: flex;
+       text-align: center;
+}
+
+.image-with-text:hover {
+       box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.pexels-werner {
+       width: 290px;
+       height: 340px;
+}
+
+.pexels-werner-last {
+       width: 90px;
+       height: 340px;
+}
+
+.industry-expert {
+       font-size: 20px;
+       padding: 20px 51px;
+       box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+       text-align: start;
+       margin: 0px;
+       width: 188px;
+}
+
+
+.multiple-images-test {
+       display: flex;
+       justify-content: center;
+       flex-direction: row;
+       margin-left: 280px;
+}
+
+
+/*Section of industry-serve.......................  */
+
+.industry-serve {
+       margin-top: 271px;
+       width: 80%;
+       margin: 300px auto;
+}
+
+.industry-serve-img1 {
+       width: 300px;
+       height: 40px;
+}
+
+.industry-serve-img2 {
+       position: relative;
+       bottom: 20px;
+       background-color: white;
+       width: 300px;
+       height: 40px;
+}
+
+.industry-serve-img3 {
+       bottom: 40px;
+       position: relative;
+       background-color: white;
+       width: 300px;
+       height: 40px;
+}
+
+.industry-serve-images {
+       display: flex;
+       justify-content: space-between;
+}
+
+.pluse2 {
+       width: 35px;
+       height: 35px;
+}
+
+.Industry-Expertise {
+       font-size: 25px;
+       color: #C4C4C4;
+       padding-left: 20px;
+}
+
+.benchmark {
+       display: flex;
+       flex-direction: row;
+}
+
+.group130-img {
+       width: 175px;
+       height: 100px;
+}
+
+.numbering {
+       color: #EC2232;
+       opacity: 0.5;
+}
+
+.image-numbering {
+       display: flex;
+       justify-content: space-around;
+       flex-direction: row;
+       width: 150px;
+}
+
+.fectory-imgages {
+       display: flex;
+       justify-content: space-around;
+       width: 550px;
+}
+
+.fectory-img {
+       margin-top: 20px;
+       width: 70px;
+       height: 70px;
+}
+
+h2 {
+       margin-bottom: 0px;
+}
+
+.accusantium-doloremque {
+       width: 360px;
+       margin: 8px 0px 0px 0px;
+}
+
+
+.charset-avarez {
+       background: url("assets/Mask\ group\ \(2\).png");
+       background-repeat: no-repeat;
+       width: 100%;
+       height: 750px;
+       background-color: linear-gradient(180deg, #072a3f -23.09%, rgba(6, 39, 56, 0) 107.85%);
+
+}
+
+.box {
+       display: flex;
+       justify-content: space-between;
+       width: 800px;
+}
+
+.group3 {
+       width: 180px;
+       height: 180px;
+       padding-top: 100px;
+}
+
+.Approach-container {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       flex-wrap: wrap;
+       color: #FFFFFF;
+       padding-top: 120px;
+}
+
+.Machine-Infra {
+       margin: 0;
+       font-size: 55px;
+       font-weight: 600;
+       width: 500px;
+}
+
+.perspiciatis {
+       font-size: 25px;
+       width: 700px;
+}
+
+.fectory-info {
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       width: 705px;
+       padding-top: 70px
+}
+
+.shapes-img {
+       color: white;
+       display: flex;
+       justify-content: flex-end;
+       padding-right: 100px;
+       margin-top: 20px;
+}
+
+
+/* Muliple companies.................................. */
+
+
+.campany-section {
+       display: flex;
+       justify-content: center;
+       flex-direction: column;
+       align-items: center;
+       width: 80%;
+       margin: 100px auto;
+}
+
+.Best-Board-industry {
+       margin-top: 300px;
+       font-size: 25px;
+       padding-bottom: 40px;
+       color: #EC2232;
+       text-align: center;
+}
+
+
+
+/* Get in Touch....................................... */
+
+.get-user-info {
+       display: flex;
+       justify-content: center;
+       flex-direction: row;
+       background-color: #0E3466;
+       height: 550px;
+       position: relative;
+
+}
+.get-in-touch{
+    font-size: 45px;
+    font-weight: 600;
+    color: #FFFFFF;   
+}
+span{
+       margin-top: 20px;
+       text-decoration: underline;
+       text-underline-position: under;
+       color: #FFFFFF;
+}
+
+.personal-info {
+       display: flex;
+       flex-direction: column;
+       width: 30%;
+       margin: auto;
+}
+
+.blank-div {
+       background-image: url("assets/Rectangle\ 491\ \(1\).png");
+       background-repeat: no-repeat;
+       width: 50%;
+}
+
+.location-map {
+       width: 60%;
+       height: 430px;
+       margin: auto;
+       margin-left: 0px;
+}
+
+.time-and-location {
+       position: absolute;
+       display: flex;
+       justify-content: center;
+       width: 50%;
+       margin-left: 365px;
+       color: #828282;
+       line-height: 20px;
+}
+
+h3 {
+       color: #000000;
+}
+
+.about-timing {
+       background-color: #FFFFFF;
+       margin-bottom: 62px;
+       margin-top: 58px;
+       width: 280px;
+}
+
+.address {
+       margin: 0px 10px;
+}
+
+input {
+       width: 270px;
+       height: 35px;
+       border-radius: 10px;
+       border-color: white;
+}
+
+.msg-input {
+       width: 270px;
+       height: 100px;
+       border-radius: 10px;
+       border-color: white;
+       display: flex;
+       justify-content: start;
+       align-items: flex-start;
+}
+
+button {
+       border: 1px solid #EC2232;
+       background-color: #EC2232;
+       color: #FFFFFF;
+       width: 116px;
+       padding: 10px;
+       border-radius: 50px;
+       /* text-align: center; */
+}
+
+.all-fectory-imgages {
+       display: flex;
+       justify-content: space-between;
+       flex-wrap: wrap;
+       height: 550px;
+       margin-top: 20px;
+}
+
+/* footer Section....................... */
+footer {
+       background-color: #000000;
+       color: #FFFFFF;
+       display: flex;
+       justify-content: space-around;
+       align-items: center;
+}
+
+ul {
+       width: 205px;
+       display: flex;
+       justify-content: space-between;
+       flex-wrap: wrap;
+       line-height: 30px;
+}
+
+h1 {
+       padding-left: 25px;
+}
+
+.multi-icon {
+       display: flex;
+       flex-flow: row;
+       justify-content: space-between;
+       padding-left: 100px;
+}
+
+.contact-info {
+       margin: 0px;
+       text-align: end;
+
+}
+
+/* media query...................... */
+
+@media screen and (min-width: 767px) and (max-width: 1100px) {
+       .best-machine {
+              width: 50%;
+              font-size: 60px;
+              margin: 30px 50px;
+              line-height: 60px;
+       }
+
+       .multi-industry {
+              display: none;
+       }
+
+       .pexels-werner {
+              width: 200px;
+              height: 250px;
+       }
+
+       .industry-expert {
+              width: 180px;
+              height: 50px;
+              font-size: 15px;
+              padding: 10px;
+       }
+
+       .fectory-info {
+              width: 500px
+       }
+
+       .charset-avarez {
+              height: 800px;
+       }
+
+       .Best-Board-industry {
+              margin-bottom: 0px;
+              padding-bottom: 0px;
+       }
+
+       .Best-Board-industry {
+              margin-top: 234px;
+       }
+
+       .shapes-img {
+              margin: 50px;
+       }
+
+       .multiple-images-test {
+              width: 50%;
+              margin: auto;
+       }
+
+       .type-of-industry {
+              width: 50%;
+       }
+
+       .pexels-werner-last {
+              display: none;
+       }
+
+       .Sed-ut-perspiciatis {
+              padding: 50px;
+       }
+
+       .Smart-team {
+              text-align: center;
+       }
+
+       .Some-of-best {
+              text-align: center;
+       }
+
+       .years-experience {
+              flex-direction: column;
+       }
+
+       .blank-div {
+              display: flex;
+              justify-content: center;
+              flex-direction: column;
+              flex-wrap: wrap;
+              height: 500px;
+       }
+
+       .time-and-location {
+              width: 400px;
+              line-height: 20px;
+              height: 552px;
+       }
+
+       .address {
+              width: 220px;
+       }
+
+       ul {
+              width: 100px;
+       }
+
+       footer {
+              text-align: center;
+              align-items: center;
+       }
+
+
+}
+
+@media screen and (min-width: 360px) and (max-width: 767px) {
+       .header-img {
+              height: 500px;
+       }
+
+       .Sed-ut-perspiciatis {
+              padding: 10px;
+              font-size: 20px;
+       }
+
+       .years-experience {
+              flex-direction: column;
+       }
+
+       .best-machine {
+              font-size: 40px;
+              padding: 35px;
+              width: 210px;
+              line-height: 55px;
+       }
+
+       .Rectangle {
+              display: none;
+       }
+
+       .multi-industry {
+              display: none;
+       }
+
+       .container {
+              display: block;
+              background: none;
+              margin: 10px;
+       }
+
+       .pexels-werner {
+              width: 200px;
+              height: 200px;
+              margin: 0px;
+       }
+
+       .first-approach {
+              padding: 10px;
+       }
+
+       .first-choice {
+              padding: 15px;
+              font-size: 35px;
+              width: 100%;
+       }
+
+       .industry-expert {
+              width: 180px;
+              height: 60px;
+              padding: 10px;
+       }
+
+       .pexels-werner-last {
+              display: none;
+       }
+
+       .header {
+              display: flex;
+              font-size: 13px;
+              padding: 0px;
+       }
+
+
+       .Mining-Mineral-Processing {
+              width: 300px;
+              font-weight: 500;
+              font-size: 15px;
+              color: #FFFFFF;
+              padding-left: 0px;
+       }
+
+       .Rubber-industry {
+              width: 270px;
+              height: 34px;
+              font-family: 'ITC Avant Garde Gothic Std';
+              font-style: normal;
+              font-weight: 500;
+              font-size: 25px;
+              line-height: 35px;
+              background: linear-gradient(89.86deg, #FFFFFF -2.09%, rgba(255, 255, 255, 0.3) 37.07%, rgba(255, 255, 255, 0) 88.12%);
+              -webkit-background-clip: text;
+              -webkit-text-fill-color: transparent;
+              background-clip: text;
+       }
+
+       .Smart-team {
+              width: 300px;
+              height: 18px;
+              font-family: 'ITC Avant Garde Gothic Std';
+              font-style: normal;
+              font-weight: 500;
+              font-size: 18px;
+              line-height: 67px;
+              letter-spacing: -0.02em;
+              color: #EC2232;
+       }
+
+       .Some-of-best {
+              width: 300px;
+              height: 85px;
+              font-family: 'ITC Avant Garde Gothic Std';
+              font-style: normal;
+              font-weight: 600;
+              font-size: 25px;
+              line-height: 40px;
+              letter-spacing: -0.02em;
+              color: #222222;
+              margin-bottom: 0px;
+       }
+
+       .Sed-ut-perspiciatis {
+              width: 300px;
+              height: 136px;
+              font-family: 'ITC Avant Garde Gothic Std';
+              font-style: normal;
+              font-weight: 300;
+              font-size: 18px;
+              line-height: 25px;
+              color: #000000;
+              padding-left: 00px;
+              margin-top: 0px;
+       }
+
+       .type-of-industry {
+              width: 70%;
+              display: block;
+              justify-content: center;
+              flex-direction: column;
+              margin: 13px auto;
+
+       }
+
+       .multple-years-info {
+              display: block;
+
+       }
+
+       .years-experience {
+              padding-top: 50px;
+              display: block;
+              justify-content: space-between;
+              align-items: center;
+       }
+
+       .many-years {
+              border-right: 1px solid #C4C4C4;
+              padding-right: 75px;
+              display: block;
+              height: 150px;
+       }
+
+       .one-of-year {
+              padding-right: 75px;
+              display: block;
+              justify-content: center;
+              align-items: center;
+              flex-flow: column;
+              height: 150px;
+       }
+
+       .image1 {
+              width: 80px;
+              height: 60px;
+       }
+
+       .pluse {
+              width: 40px;
+              height: 35px;
+              padding-bottom: 15px;
+       }
+
+       .experience {
+              font-size: 25px;
+              color: #222222;
+              padding-right: 0px;
+       }
+
+       .text-dark {
+              font-weight: 600;
+       }
+
+       .container {
+              width: 100%;
+              height: auto;
+              background-size: cover;
+              margin-top: 200px;
+       }
+
+       .first-approach {
+              color: #EC2232;
+              padding-left: 0px;
+              margin: 0;
+              padding-top: 100px;
+       }
+
+       .group3 {
+              display: none;
+       }
+
+       .image-with-text {
+              margin: 20px;
+       }
+
+       .image-with-text:hover {
+              box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+       }
+
+       .pexels-werner {
+              width: 290px;
+              height: 340px;
+       }
+
+       .pexels-werner-last {
+              width: 90px;
+              height: 340px;
+       }
+
+       .industry-expert {
+              font-size: 20px;
+              padding: 0px;
+              box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+              text-align: start;
+              margin: 0px;
+              width: 188px;
+       }
+
+
+       .multiple-images-test {
+              display: block;
+              margin-left: 0px;
+       }
+
+
+       /*Section of industry-serve.......................  */
+       .industry-serve {
+              margin: 20px;
+
+       }
+
+       .industry-serve-img1 {
+              width: 300px;
+              height: 40px;
+       }
+
+       .industry-serve-img2 {
+              bottom: 24px;
+              position: relative;
+              background-color: white;
+              width: 300px;
+              height: 40px;
+       }
+
+       .industry-serve-img3 {
+              bottom: 50px;
+              position: relative;
+              background-color: white;
+              width: 300px;
+              height: 40px;
+       }
+
+       .industry-serve-images {
+              display: block;
+              justify-content: space-between;
+       }
+
+       .pluse2 {
+              width: 35px;
+              height: 35px;
+       }
+
+       .Industry-Expertise {
+              font-size: 25px;
+              color: #C4C4C4;
+              padding-left: 20px;
+       }
+
+       .benchmark {
+              display: block;
+              flex-direction: row;
+       }
+
+       .group130-img {
+              width: 175px;
+              height: 100px;
+       }
+
+       .numbering {
+              color: #EC2232;
+              opacity: 0.5;
+       }
+
+       .image-numbering {
+              display: block;
+              justify-content: space-around;
+              flex-direction: row;
+              width: 150px;
+       }
+
+       .fectory-imgages {
+              display: block;
+              justify-content: space-around;
+              width: 550px;
+       }
+
+       .fectory-img {
+              margin-top: 20px;
+              width: 70px;
+              height: 70px;
+       }
+
+       h2 {
+              margin-bottom: 0px;
+       }
+
+       .accusantium-doloremque {
+              width: 300px;
+              margin: 0px;
+       }
+
+
+       .charset-avarez {
+              margin-top: 1143px;
+              height: auto;
+
+       }
+
+       .box {
+              width: 300px;
+
+       }
+
+       .group3 {
+              width: 180px;
+              height: 180px;
+              padding-top: 100px;
+       }
+
+       .Approach-container {
+              display: block;
+              flex-direction: column;
+              align-items: center;
+              flex-wrap: wrap;
+              color: #FFFFFF;
+              padding-top: 120px;
+       }
+
+       .Machine-Infra {
+              margin: 0;
+              font-size: 55px;
+              font-weight: 600;
+              width: 300px;
+       }
+
+       .perspiciatis {
+              font-size: 25px;
+              width: 300px;
+       }
+
+       .fectory-info {
+              display: block;
+              justify-content: space-between;
+              align-items: center;
+              width: 705px;
+              padding-top: 70px
+       }
+
+       .shapes-img {
+              display: none;
+       }
+
+
+       /* Muliple companies.................................. */
+
+       .campany-section {
+              margin-top: 20px;
+       }
+
+       .Best-Board-industry {
+              margin: 80px 10px 10px 10px;
+              padding: 0%;
+
+       }
+
+       /* Get in Touch....................................... */
+
+       .get-user-info {
+              display: block;
+              margin: 0px;
+              width: 100%;
+              height: auto;
+       }
+       .get-in-touch{
+              font-size: medium;
+       }
+
+       .personal-info {
+              margin: 10px;
+       }
+
+       .blank-div {
+              display: none;
+       }
+
+       .location-map {
+              display: none;
+              margin: 0px;
+              padding: 0px;
+       }
+
+       .time-and-location {
+              display: none;
+              margin: 0px;
+              padding: 0px;
+       }
+
+       ul {
+              display: block;
+       }
+
+       footer {
+              display: flex;
+              flex-direction: column;
+              padding: auto;
+              align-items: center;
+       }
+
+
+}
